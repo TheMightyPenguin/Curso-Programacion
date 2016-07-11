@@ -3,6 +3,10 @@
 Ok amigo, trabajaremos con el libro Think Python mayormente.
 Requiero que te leas el capitulo 1 completo, y hagas lo siguiente:
 
+Descargar el libro del siguiente enlace:
+
+http://greenteapress.com/thinkpython2/thinkpython2.pdf
+
 ## Ejercicio 1
 
 Definir/Explicar lo siguiente:
